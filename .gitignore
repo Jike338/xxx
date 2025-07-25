@@ -1,0 +1,6 @@
+transformers-main/
+transformers-main.zip
+flash_attn-2.8.0.post2+cu12torch2.5cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
+Video-R1-260k.json
+Video-R1-COT-165k.json
+*.whl
